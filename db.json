@@ -2,9 +2,9 @@
     "users": [
     {
       "id": 1,
-      "name": "Leanne Graham",
-      "username": "Bret",
-      "email": "Sincere@april.biz",
+      "name": "Juan Torres",
+      "username": "Jtorres",
+      "email": "jtorres@april.biz",
       "address": {
         "street": "Los Tusilagos Oeste",
         "suite": "102 Apt. 556",
@@ -25,9 +25,9 @@
     },
     {
       "id": 2,
-      "name": "Ervin Howell",
-      "username": "Antonette",
-      "email": "Shanna@melissa.tv",
+      "name": "Maria Lopez",
+      "username": "MLopez",
+      "email": "mlopez@melissa.tv",
       "address": {
         "street": "Av. Bocanegra",
         "suite": "136 Suite 879",
